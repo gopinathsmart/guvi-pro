@@ -24,7 +24,7 @@ public class Pro7_61 {
 			s3 += (char) m;
 			}
 		}
-		System.out.println(s3);
+		System.out.print(s3+" ");
 		n = 0;
 		m = 0;
 		d=0;
@@ -41,7 +41,7 @@ public class Pro7_61 {
 				s4 += (char) m;
 			}
 		}
-		System.out.println(s2.charAt(0)+""+s4+""+s2.charAt(s2.length()-1));
+		System.out.print(s2.charAt(0)+""+s4+""+s2.charAt(s2.length()-1));
 	}
 
 }
