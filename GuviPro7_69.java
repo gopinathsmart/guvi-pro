@@ -44,7 +44,7 @@ while( sum1==0) {
 		a=sum1;
 		sum1=0;
 	}
-}System.out.println(sum1);
+}
 long sum2=0;
 for(int i=0;i<list.size();i++) {
 	a=a+(d*list.get(i));
